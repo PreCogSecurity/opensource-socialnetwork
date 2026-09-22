@@ -1,0 +1,27 @@
+{
+  "name": "opensource-socialnetwork",
+  "version": "4.1.0",
+  "description": "Open Source Social Network (OSSN) Frontend Assets",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PreCogSecurity/opensource-socialnetwork.git"
+  },
+  "keywords": [
+    "social",
+    "network",
+    "ossn",
+    "php"
+  ],
+  "author": "OSSN Core Team & PreCog Security",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "chart.js": "^2.9.4",
+    "jquery": "^1.11.1",
+    "tinymce": "^4.9.11"
+  },
+  "devDependencies": {}
+}
